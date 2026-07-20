@@ -1,0 +1,6 @@
+pandas
+pyarrow
+python-dotenv
+openai
+jinja2
+matplotlib

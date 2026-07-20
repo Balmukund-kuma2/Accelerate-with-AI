@@ -1,0 +1,36 @@
+{
+    "current_step": "reporter",
+    "completed_steps": [
+        "profiler",
+        "sttm_generator",
+        "bronze",
+        "silver",
+        "gold",
+        "reporter"
+    ],
+    "files": {
+        "profiler": [
+            "C:\\Users\\balmukumar\\Downloads\\Accelerate with AI\\data\\bronze\\data_profile_summary.json"
+        ],
+        "sttm_generator": [
+            "C:\\Users\\balmukumar\\Downloads\\Accelerate with AI\\data\\bronze\\sttm_rules.json"
+        ],
+        "bronze": [
+            "C:\\Users\\balmukumar\\Downloads\\Accelerate with AI\\data\\bronze\\products.parquet",
+            "C:\\Users\\balmukumar\\Downloads\\Accelerate with AI\\data\\bronze\\sales_data.parquet",
+            "C:\\Users\\balmukumar\\Downloads\\Accelerate with AI\\data\\bronze\\stores.parquet"
+        ],
+        "silver": [
+            "C:\\Users\\balmukumar\\Downloads\\Accelerate with AI\\data\\silver\\products.parquet",
+            "C:\\Users\\balmukumar\\Downloads\\Accelerate with AI\\data\\silver\\sales_data.parquet",
+            "C:\\Users\\balmukumar\\Downloads\\Accelerate with AI\\data\\silver\\stores.parquet"
+        ],
+        "gold": [
+            "C:\\Users\\balmukumar\\Downloads\\Accelerate with AI\\data\\gold\\gold_master_sales_analytics.parquet",
+            "C:\\Users\\balmukumar\\Downloads\\Accelerate with AI\\data\\gold\\gold_sales_summary.parquet"
+        ],
+        "reporter": [
+            "C:\\Users\\balmukumar\\Downloads\\Accelerate with AI\\reports\\executive_sales_report.html"
+        ]
+    }
+}

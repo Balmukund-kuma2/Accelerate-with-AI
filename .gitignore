@@ -1,0 +1,13 @@
+# Security
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Pipeline generated data & logs (keep only raw landing data)
+data/bronze/
+data/silver/
+data/gold/
+logs/
+reports/executive_sales_report.html
